@@ -30,9 +30,7 @@ Enter book name: <input type="text" name="book_name"></br></br>
 </head>
 <body style="margin:
 auto; text-align: center; margin-top: 100px; font-size:
-larger; font-family: 'Lucida Sans', 'Lucida Sans Regular',
-'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
-sans-serif;">
+larger; font-family: 'Lucida Sans'">
 <?php
 function getBookPrice($name) {
 $prices = array(
